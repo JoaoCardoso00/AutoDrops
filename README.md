@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoCardoso00/AutoDrops">
-    <img src="./doc/AutoDropsLogo.png" alt="Logo" width="200" height="200">
+    <img src="C:\Users\Home\Downloads\Auto drops(2).png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
@@ -47,20 +47,16 @@
 <!-- TABLE OF CONTENTS -->
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabela de conteúdos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#abrir-e-rodar-o-projeto">Abrir e rodar o projeto</a>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -70,6 +66,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -91,7 +88,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">voltar para o início</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
@@ -102,7 +99,7 @@ Lista de tecnologias utilizadas na construção do projeto.
 * [Arduino UNO](https://www.arduino.cc/)
 * [Motor Servo](https://docs.arduino.cc/learn/electronics/servo-motors)
 
-<p align="right">(<a href="#top">voltar para o início</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
@@ -135,7 +132,7 @@ Lista de tecnologias utilizadas na construção do projeto.
 
    
 
-<p align="right">(<a href="#top">voltar para o início</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 <!-- USAGE EXAMPLES -->
 ## Usos
@@ -146,7 +143,7 @@ O projeto pode ser usado para bla bla bla bla bla ( fabio faz isso aq por favor 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">voltar para o início</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
@@ -163,38 +160,38 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Veja [open issues](https://github.com/JoaoCardoso00/AutoDrops/issues) para uma lista de funcionalidades recomendadas (e problemas conhecidos).
 
-<p align="right">(<a href="#top">voltar para o início</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
 <!-- CONTRIBUTING -->
 ## Contribuir para o projeto
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Se você tem alguma sugestão para deixar o projeto melhor,  por favor dê um fork neste repostiório e abra um pull request. Você pode tambem abrir um issue com a tag "enhancement".
+Não esqueça de dar uma estrela ao projeto!
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+1. Dê um fork no projeto
+2. Crie uma branch para sua funcionalidade (`git checkout -b feature/AmazingFeature`)
+3. Dê commit nas suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Dê push na sua branch (`git push origin feature/AmazingFeature`)
+5. Abra o pull request
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
 <!-- LICENSE -->
+
 ## Licence
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
 <!-- CONTACT -->
+
 ## Contact
 
 João Cardoso - [in/joão-vcardoso](https://www.linkedin.com/in/jo%C3%A3o-vcardoso/) - jvcq13@gmail.com
@@ -211,7 +208,7 @@ João Cardoso - [@daarkeae](https://twitter.com/daarkeae) - jvcq13@gmail.com
 
 Link do projeto: [https://github.com/JoaoCardoso00/AutoDrops](https://github.com/JoaoCardoso00/AutoDrops)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
@@ -229,12 +226,13 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">voltar para o início</a></p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
