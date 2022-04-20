@@ -110,8 +110,6 @@ Lista de tecnologias utilizadas na construção do projeto.
 
 ## Abrir e rodar o projeto
 
-------
-
 ### Pré-requisitos
 
 * Arduino IDE: 
