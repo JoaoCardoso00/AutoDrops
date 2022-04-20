@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoCardoso00/AutoDrops">
-    <img src="C:\Users\Home\Downloads\Auto drops(2).png" alt="Logo" width="200" height="200">
+    <img src="./doc/AutoDropsLogo.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
