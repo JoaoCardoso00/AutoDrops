@@ -190,7 +190,7 @@ João Cardoso - [in/joão-vcardoso](https://www.linkedin.com/in/jo%C3%A3o-vcardo
 
 Fabio Neves - [in/fabio-neves-55b2831b5](https://www.linkedin.com/in/fabio-neves-55b2831b5/) - fabinhoneves09@gmail.com
 
-Marco Aurélio - [in/marco-aurélio-629008210](https://www.linkedin.com/in/marco-aur%C3%A9lio-629008210/) - jvcq13@gmail.com
+Marco Aurélio - [in/marco-aurélio-629008210](https://www.linkedin.com/in/marco-aur%C3%A9lio-629008210/) - marconeto3000@gmail.com
 
 Newton Miranda - [in/nykontx](https://www.linkedin.com/in/nykontx/) - newton.chickengopro@gmail.com
 
