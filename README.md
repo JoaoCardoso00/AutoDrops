@@ -192,7 +192,7 @@ Fabio Neves - [in/fabio-neves-55b2831b5](https://www.linkedin.com/in/fabio-neves
 
 Marco Aurélio - [in/marco-aurélio-629008210](https://www.linkedin.com/in/marco-aur%C3%A9lio-629008210/) - jvcq13@gmail.com
 
-Newton Miranda - [in/nykontx](https://www.linkedin.com/in/nykontx/) - jvcq13@gmail.com
+Newton Miranda - [in/nykontx](https://www.linkedin.com/in/nykontx/) - newton.chickengopro@gmail.com
 
 João Cardoso - [@daarkeae](https://twitter.com/daarkeae) - jvcq13@gmail.com
 
