@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -23,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoCardoso00/AutoDrops">
-    <img src="C:\Users\Home\Downloads\Auto drops(2).png" alt="Logo" width="200" height="200">
+    <img src="./doc/AutoDropsLogo.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">
@@ -42,8 +40,6 @@
 
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 
 <details>
@@ -58,50 +54,48 @@
     <li>
       <a href="#abrir-e-rodar-o-projeto">Abrir e rodar o projeto</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usos">Usos</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contribuir-para-o-projeto">Contribuir para o projeto</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Contato">Contato</a></li>
+    <li><a href="#Referências">Referências</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 
 ## Sobre o projeto
 
-** Inserir Imagem do projeto aqui **
+### O AutoDrops é um kit de sistema de irrigação que foi desenvolvido para solucionar o problema de irrigação nas hortas suspensas na Ilha das Onças.
 
---- Modificar texto abaixo pra descrição do projeto ---
+<div align="center">
+  <a href="https://github.com/JoaoCardoso00/AutoDrops">
+    <img src="./doc/horta.png" alt="Logo" width="250" height="200">
+  </a>
+</div>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Os habitantes da Ilha das Onças não possuem vasto conhecimento para poder utilizar as hortas em seu maior potencial, assim diminuindo a produção e aumentando os gastos de água, energia e tempo. Enquanto esses gastos podiam ser realocados para outras atividades como: Plantação, colheita e venda do açai, estudos e uso pessoal. Assim a nossa equipe, através de uma pesquisa feita com os habitantes, desenvolvemos o nosso sistema, que usa a técnica de gotejamento para irrigar a horta, e possui um mecanismo automático para regular a taxa de gotejamento e o fluxo de água.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+No que o projeto vai ajudar:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+- Qualidade da irrigação das hortas
+- Tempo para irrigar as hortas
+- Monitoramento da qualidade das hortaliças
 
-Use the `BLANK_README.md` to get started.
+Assim, como dito acima, procuramos ajudar os habitantes da Ilha das onças **( ou qualquer um que possua uma grande quantidade de hortas e não tem tempo, ou conhecimento, para cuidar)** de tal forma que aumente a sua produtividade e qualidade das hortaliças.
 
 <p align="right"><a href="#top">voltar para o início</a></p>
-
-
 
 ### Tecnologias utilizadas
 
 Lista de tecnologias utilizadas na construção do projeto.
 
-* [Arduino UNO](https://www.arduino.cc/)
-* [Motor Servo](https://docs.arduino.cc/learn/electronics/servo-motors)
+- [Arduino UNO](https://www.arduino.cc/) (Controle do Fluxo da água)
+- [Motor Servo](https://docs.arduino.cc/learn/electronics/servo-motors) (Controle do Fluxo da água)
+- [Sensor DHT11](https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/) (Monitoramento de Temperatura e humidade da horta)
 
 <p align="right"><a href="#top">voltar para o início</a></p>
-
-
 
 <!-- GETTING STARTED -->
 
@@ -109,17 +103,18 @@ Lista de tecnologias utilizadas na construção do projeto.
 
 ### Pré-requisitos
 
-* Arduino IDE: 
-  
-  ​	[Windows Download Docs](https://docs.arduino.cc/software/ide-v1/tutorials/Windows)
-  
-  ​	[macOS Download Docs](https://www.arduino.cc/en/Guide/macOS)
-  
-  ​	[Linux Download Docs](https://docs.arduino.cc/software/ide-v1/tutorials/Linux) 
+- Arduino IDE:
+
+  ​ [Windows Download Docs](https://docs.arduino.cc/software/ide-v1/tutorials/Windows)
+
+  ​ [macOS Download Docs](https://www.arduino.cc/en/Guide/macOS)
+
+  ​ [Linux Download Docs](https://docs.arduino.cc/software/ide-v1/tutorials/Linux)
 
 ### Instalação
 
 1. Clone o repositório
+
    ```sh
    git clone https://github.com/JoaoCardoso00/AutoDrops.git
    ```
@@ -128,30 +123,34 @@ Lista de tecnologias utilizadas na construção do projeto.
 
 3. Após montar o circuito, dê upload no codigo para dentro do arduino.
 
-   
-
 <p align="right"><a href="#top">voltar para o início</a></p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usos
 
-O projeto pode ser usado para bla bla bla bla bla ( fabio faz isso aq por favor )
+O projeto foi criado para a irrigação de hortas suspensas por meio da técnica de gotejamento.
 
--- inserir imagem de
+### Funcionalidades
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+- Sistema de gotejamento para irrigação da horta
+- Sistema de sensores para monitoriamento da qualidade da horta
+- Sistema de armazenamento de água
+- Sistema de controle de fluxo da água
 
 <p align="right"><a href="#top">voltar para o início</a></p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Montagem do primeiro protótipo
-    - [x] Código inicial do protótipo
-    - [x] integração com o motor servo para controle de passagem de água
-    - [ ] Integração com sensores para monitorar a qualidade da horta
+
+  - [x] Código inicial do protótipo
+  - [x] integração com o motor servo para controle de passagem de água
+  - [ ] Integração com sensores para monitorar a qualidade da horta
+    - [ ] Teste com os sensores
+    - [ ] Validação dos sensores
 
 - [ ] Validação do projeto
 - [ ] implementação do projeto na ilha das onças
@@ -160,12 +159,11 @@ Veja [open issues](https://github.com/JoaoCardoso00/AutoDrops/issues) para uma l
 
 <p align="right"><a href="#top">voltar para o início</a></p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contribuir para o projeto
 
-Se você tem alguma sugestão para deixar o projeto melhor,  por favor dê um fork neste repostiório e abra um pull request. Você pode tambem abrir um issue com a tag "enhancement".
+Se você tem alguma sugestão para deixar o projeto melhor, por favor dê um fork neste repostiório e abra um pull request. Você pode tambem abrir um issue com a tag "enhancement".
 Não esqueça de dar uma estrela ao projeto!
 
 1. Dê um fork no projeto
@@ -176,21 +174,17 @@ Não esqueça de dar uma estrela ao projeto!
 
 <p align="right"><a href="#top">voltar para o início</a></p>
 
-
-
 <!-- LICENSE -->
 
-## Licence
+## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right"><a href="#top">voltar para o início</a></p>
 
-
-
 <!-- CONTACT -->
 
-## Contact
+## Contato
 
 João Cardoso - [in/joão-vcardoso](https://www.linkedin.com/in/jo%C3%A3o-vcardoso/) - jvcq13@gmail.com
 
@@ -202,31 +196,27 @@ Newton Miranda - [in/nykontx](https://www.linkedin.com/in/nykontx/) - jvcq13@gma
 
 João Cardoso - [@daarkeae](https://twitter.com/daarkeae) - jvcq13@gmail.com
 
-
-
 Link do projeto: [https://github.com/JoaoCardoso00/AutoDrops](https://github.com/JoaoCardoso00/AutoDrops)
 
 <p align="right"><a href="#top">voltar para o início</a></p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+
+## Referências
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+- [Arduino](https://www.arduino.cc/)
+
+- [Arduino IDE](https://www.arduino.cc/en/software)
+
+- [Motor Servo](https://docs.arduino.cc/learn/electronics/servo-motors)
+
+- [Sensor DHT11](https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/)
+
+- [Sistema de irrigação por gotejamento](https://pt.wikipedia.org/wiki/Sistema_de_irriga%C3%A7%C3%A3o_por_gotejamento)
 
 <p align="right"><a href="#top">voltar para o início</a></p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
