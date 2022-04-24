@@ -194,7 +194,7 @@ Marco Aurélio - [in/marco-aurélio-629008210](https://www.linkedin.com/in/marco
 
 Newton Miranda - [in/nykontx](https://www.linkedin.com/in/nykontx/) - newton.chickengopro@gmail.com
 
-João Guilherme - [in/joão-guilherme-beltrão-carvalho-pinheiro-80b441238](https://www.linkedin.com/in/jo%C3%A3o-guilherme-beltr%C3%A3o-carvalho-pinheiro-80b441238/) - jgbeltrao09@gmail.com
+João Guilherme - [in/joão-guilherme-beltrão-carvalho-pinheiro-80b441238](https://www.linkedin.com/in/jo%C3%A3o-guilherme-beltr%C3%A3o-carvalho-pinheiro-80b441238/) - jgbeltrao09@gmail.com 
 
 Link do projeto: [https://github.com/JoaoCardoso00/AutoDrops](https://github.com/JoaoCardoso00/AutoDrops)
 
