@@ -93,7 +93,7 @@ Lista de tecnologias utilizadas na construção do projeto.
 
 - [Arduino UNO](https://www.arduino.cc/) (Controle do Fluxo da água)
 - [Motor Servo](https://docs.arduino.cc/learn/electronics/servo-motors) (Controle do Fluxo da água)
-- [Sensor DHT11](https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/) (Monitoramento de Temperatura e humidade da horta)
+- [Sensor DHT11](https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/) (Monitoramento de Temperatura e umidade da horta)
 
 <p align="right"><a href="#top">voltar para o início</a></p>
 
