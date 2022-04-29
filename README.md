@@ -81,7 +81,6 @@ No que o projeto vai ajudar:
 
 - Qualidade da irrigação das hortas
 - Tempo para irrigar as hortas
-- Monitoramento da qualidade das hortaliças
 
 Assim, como dito acima, procuramos ajudar os habitantes da Ilha das onças **( ou qualquer um que possua uma grande quantidade de hortas e não tem tempo, ou conhecimento, para cuidar)** de tal forma que aumente a sua produtividade e qualidade das hortaliças.
 
@@ -133,7 +132,6 @@ O projeto foi criado para a irrigação de hortas suspensas por meio da técnica
 ### Funcionalidades
 
 - Sistema de gotejamento para irrigação da horta
-- Sistema de sensores para monitoriamento da qualidade da horta
 - Sistema de armazenamento de água
 - Sistema de controle de fluxo da água
 
